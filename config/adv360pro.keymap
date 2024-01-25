@@ -17,11 +17,11 @@
 
         Symbols {
             bindings = <
-&trans  &trans     &trans  &trans  &trans  &trans  &trans                                                                       &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans     &trans  &trans  &trans  &trans  &trans                                                                       &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &kp GRAVE  &trans  &trans  &trans  &trans  &trans              &trans     &trans        &trans         &trans           &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans     &trans  &trans  &trans  &trans                                 &trans        &trans                                  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans     &trans  &trans  &trans                  &kp DELETE  &kp ENTER  &kp ESCAPE    &kp BACKSPACE  &trans  &kp TAB                  &trans  &trans  &trans  &trans  &trans
+&trans  &trans     &trans            &trans             &trans         &trans  &trans                                                                       &trans  &trans  &trans         &trans           &trans     &trans         &trans
+&trans  &trans     &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp BACKSLASH  &trans  &trans                                                                       &trans  &trans  &trans         &trans           &trans     &trans         &trans
+&trans  &kp GRAVE  &kp MINUS         &kp EQUAL          &kp SLASH      &trans  &trans              &trans     &trans        &trans         &trans           &trans  &trans  &kp RIGHT_WIN  &kp RIGHT_SHIFT  &kp RCTRL  &kp RIGHT_ALT  &trans
+&trans  &trans     &trans            &trans             &trans         &trans                                 &trans        &trans                                  &trans  &trans         &trans           &trans     &trans         &trans
+&trans  &trans     &trans            &trans             &trans                         &kp DELETE  &kp ENTER  &kp ESCAPE    &kp BACKSPACE  &trans  &kp TAB                  &trans         &trans           &trans     &trans         &trans
             >;
         };
 
