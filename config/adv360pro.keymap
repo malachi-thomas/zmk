@@ -8,8 +8,8 @@
         Main_Layer {
             bindings = <
 &none      &kp N1            &kp N2       &kp N3            &kp N4          &kp N5  &none                                                                                     &none              &kp N6  &kp N7           &kp N8             &kp N9       &kp N0           &none
-&none      &kp SINGLE_QUOTE  &kp COMMA    &kp DOT           &kp P           &kp Y   &kp LEFT_BRACKET                                                                          &kp RIGHT_BRACKET  &kp F   &kp G            &kp C              &kp R        &kp L            &none
-&kp SLASH  &mt LEFT_ALT A    &mt LCTRL O  &mt LEFT_SHIFT E  &mt LEFT_WIN U  &kp I   &kp GRAVE                    &none       &none         &none    &none                     &none              &kp D   &mt RIGHT_WIN H  &mt RIGHT_SHIFT T  &mt RCTRL N  &mt RIGHT_ALT S  &kp BACKSLASH
+&none      &kp SINGLE_QUOTE  &kp COMMA    &kp DOT           &kp P           &kp Y   &kp GRAVE                                                                                 &none              &kp F   &kp G            &kp C              &kp R        &kp L            &none
+&kp SLASH  &mt LEFT_ALT A    &mt LCTRL O  &mt LEFT_SHIFT E  &mt LEFT_WIN U  &kp I   &kp LEFT_BRACKET             &none       &none         &none    &none                     &kp RIGHT_BRACKET  &kp D   &mt RIGHT_WIN H  &mt RIGHT_SHIFT T  &mt RCTRL N  &mt RIGHT_ALT S  &kp BACKSLASH
 &kp MINUS  &kp SEMICOLON     &kp Q        &kp J             &kp K           &kp X                                            &none         &none                                                 &kp B   &kp M            &kp W              &kp V        &kp Z            &kp EQUAL
 &none      &none             &none        &kp LEFT          &kp RIGHT                                 &kp ENTER  &kp ESCAPE  &kp DELETE    &kp TAB  &kp BACKSPACE  &kp SPACE                             &kp UP_ARROW     &kp DOWN           &none        &none            &none
             >;
