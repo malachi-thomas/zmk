@@ -4,11 +4,8 @@
 
 &mt {
     tapping-term-ms = <150>;
-    flavor = "tap-unless-interrupted";
+    flavor = "hold-preferred";
     retro-tap;
-    hold-trigger-key-positions = <29 30 31 32 41 42 43 44>;
-    quick-tap-ms = <0>;
-    require-prior-idle-ms = <0>;
     bindings = <&kp>, <&kp>;
 };
 
