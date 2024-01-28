@@ -6,6 +6,7 @@
     tapping-term-ms = <70>;
     flavor = "hold-preferred";
     retro-tap;
+    quick-tap-ms = <300>;
 };
 
 / {
