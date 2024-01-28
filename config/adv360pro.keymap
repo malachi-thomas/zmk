@@ -6,8 +6,7 @@
     tapping-term-ms = <70>;
     flavor = "balanced";
     retro-tap;
-    quick-tap-ms = <300>;
-    require-prior-idle-ms = <500>;
+    quick-tap-ms = <200>;
 };
 
 / {
