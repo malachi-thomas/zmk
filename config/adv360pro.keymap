@@ -6,7 +6,6 @@
     tapping-term-ms = <150>;
     flavor = "hold-preferred";
     retro-tap;
-    bindings = <&kp>, <&kp>;
 };
 
 / {
