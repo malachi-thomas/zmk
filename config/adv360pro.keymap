@@ -18,7 +18,7 @@
 &none  &kp SINGLE_QUOTE  &kp COMMA    &kp DOT           &kp P           &kp Y   &kp GRAVE                                                                                 &none              &kp F   &kp G            &kp C              &kp R          &kp L            &kp C_VOL_DN
 &none  &mt LEFT_ALT A    &mt LCTRL O  &mt LEFT_SHIFT E  &mt LEFT_WIN U  &kp I   &kp LEFT_BRACKET             &to 0       &none         &none    &to 1                     &kp RIGHT_BRACKET  &kp D   &mt RIGHT_WIN H  &mt RIGHT_SHIFT T  &mt RCTRL N    &mt RIGHT_ALT S  &none
 &none  &kp SEMICOLON     &kp Q        &kp J             &kp K           &kp X                                            &none         &none                                                 &kp B   &kp M            &kp W              &kp V          &kp Z            &none
-&mo 0  &kp MINUS         &kp SLASH    &kp LEFT          &kp RIGHT                                 &kp ENTER  &kp ESCAPE  &kp DELETE    &kp TAB  &kp BACKSPACE  &kp SPACE                             &kp UP_ARROW     &kp DOWN           &kp BACKSLASH  &kp EQUAL        &mo 0
+&mo 2  &kp MINUS         &kp SLASH    &kp LEFT          &kp RIGHT                                 &kp ENTER  &kp ESCAPE  &kp DELETE    &kp TAB  &kp BACKSPACE  &kp SPACE                             &kp UP_ARROW     &kp DOWN           &kp BACKSLASH  &kp EQUAL        &mo 2
             >;
         };
 
